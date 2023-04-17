@@ -1,7 +1,7 @@
 # 💫 About Me:
-An enthusiastic Computer Scientist, who believes every information learned will be used sooner or later!
+Living in today, coding tomorrow.
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anilkose06/) 
 
 # 💻 Tech Stack:
